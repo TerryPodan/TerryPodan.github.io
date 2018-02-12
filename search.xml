@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Hexo学习资料]]></title>
+    <url>%2F2018%2F02%2F12%2FHexo%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%2F</url>
+    <content type="text"><![CDATA[Hexo安装配置1https://www.jianshu.com/p/5e9bd5e39ae6 Hexo配置优化1https://segmentfault.com/a/1190000009544924]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[如何设置CNPM]]></title>
     <url>%2F2018%2F02%2F11%2F%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AECNPM%2F</url>
     <content type="text"><![CDATA[12$ npm install -g cnpm --registry=https://registry.npm.taobao.org$ npm config set registry https://registry.npm.taobao.org 以后就用cnpm吧 1$ cnpm install [name]]]></content>
