@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://terrypodan.github.io/"/>
   <updated>2018-02-11T08:01:28.492Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://terrypodan.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>如何设置CNPM</title>
-    <link href="http://yoursite.com/2018/02/11/%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AECNPM/"/>
-    <id>http://yoursite.com/2018/02/11/如何设置CNPM/</id>
+    <link href="https://terrypodan.github.io/2018/02/11/%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AECNPM/"/>
+    <id>https://terrypodan.github.io/2018/02/11/如何设置CNPM/</id>
     <published>2018-02-11T07:59:50.000Z</published>
     <updated>2018-02-11T08:01:28.492Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>哈哈</title>
-    <link href="http://yoursite.com/2018/02/11/%E5%93%88%E5%93%88/"/>
-    <id>http://yoursite.com/2018/02/11/哈哈/</id>
+    <link href="https://terrypodan.github.io/2018/02/11/%E5%93%88%E5%93%88/"/>
+    <id>https://terrypodan.github.io/2018/02/11/哈哈/</id>
     <published>2018-02-11T07:32:52.000Z</published>
     <updated>2018-02-11T07:54:14.824Z</updated>
     
@@ -61,8 +61,8 @@
   
   <entry>
     <title>My Gallery</title>
-    <link href="http://yoursite.com/2018/02/11/My-Gallery/"/>
-    <id>http://yoursite.com/2018/02/11/My-Gallery/</id>
+    <link href="https://terrypodan.github.io/2018/02/11/My-Gallery/"/>
+    <id>https://terrypodan.github.io/2018/02/11/My-Gallery/</id>
     <published>2018-02-11T07:26:33.000Z</published>
     <updated>2018-02-11T07:26:33.765Z</updated>
     
@@ -75,8 +75,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/02/11/hello-world/"/>
-    <id>http://yoursite.com/2018/02/11/hello-world/</id>
+    <link href="https://terrypodan.github.io/2018/02/11/hello-world/"/>
+    <id>https://terrypodan.github.io/2018/02/11/hello-world/</id>
     <published>2018-02-11T06:14:13.272Z</published>
     <updated>2018-02-11T06:14:13.272Z</updated>
     
