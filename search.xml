@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[HexoAdmin安装配置手册]]></title>
+    <url>%2F2018%2F02%2F12%2FHexoAdmin%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E6%89%8B%E5%86%8C%2F</url>
+    <content type="text"><![CDATA[参考此文1http://yeshaoting.cn/article/hexo/hexo%E4%BD%BF%E7%94%A8%E8%BF%9B%E9%98%B6/]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Hexo学习资料]]></title>
     <url>%2F2018%2F02%2F12%2FHexo%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%2F</url>
     <content type="text"><![CDATA[Hexo安装配置1https://www.jianshu.com/p/5e9bd5e39ae6 Hexo配置优化1https://segmentfault.com/a/1190000009544924]]></content>
@@ -13,7 +18,7 @@
   <entry>
     <title><![CDATA[哈哈]]></title>
     <url>%2F2018%2F02%2F11%2F%E5%93%88%E5%93%88%2F</url>
-    <content type="text"><![CDATA[随便写点啥吧 测试下大标题测试下小标题1234启动服务$ hexo server创建文章$ hexo new "My New Post"]]></content>
+    <content type="text"><![CDATA[随便写点啥吧 测试下大标题测试下小标题加段内容测试下可视化工具1234启动服务$ hexo server创建文章$ hexo new "My New Post"]]></content>
   </entry>
   <entry>
     <title><![CDATA[My Gallery]]></title>
