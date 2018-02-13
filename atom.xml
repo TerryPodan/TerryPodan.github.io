@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://terrypodan.github.io/"/>
-  <updated>2018-02-12T02:51:31.529Z</updated>
+  <updated>2018-02-13T01:52:44.959Z</updated>
   <id>https://terrypodan.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GP基础教程</title>
+    <link href="https://terrypodan.github.io/2018/02/13/GP%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/"/>
+    <id>https://terrypodan.github.io/2018/02/13/GP基础教程/</id>
+    <published>2018-02-13T01:51:40.000Z</published>
+    <updated>2018-02-13T01:52:44.959Z</updated>
+    
+    <content type="html"><![CDATA[<p>请细读此文！</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">http://blog.csdn.net/theogo/article/details/50649531</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;请细读此文！&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>HexoAdmin安装配置手册</title>
